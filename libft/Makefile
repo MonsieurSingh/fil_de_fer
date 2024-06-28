@@ -6,7 +6,7 @@
 #    By: tesingh <marvin@42.fr>                     +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2024/04/02 09:41:42 by tesingh           #+#    #+#              #
-#    Updated: 2024/06/26 17:39:57 by tesingh          ###   ########.fr        #
+#    Updated: 2024/06/29 00:42:43 by tesingh          ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -38,6 +38,7 @@ FILES =	ft_isalpha \
 		ft_memcmp \
 		ft_strnstr \
 		ft_atoi \
+		ft_atoi_base \
 		ft_calloc \
 		ft_strdup \
 		ft_substr \

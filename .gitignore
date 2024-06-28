@@ -1,3 +1,8 @@
 a.out
 libft/libft.a
 a.aout.dSYM
+**/*.o
+./fdf
+.DS_Store
+**/*.swp
+fdf
